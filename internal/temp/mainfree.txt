@@ -1,0 +1,17 @@
+qbs_free(__STRING_CAP);
+qbs_free(__STRING_TT);
+qbs_free(__STRING_FIL);
+qbs_free(__STRING_F);
+qbs_free(__STRING_K);
+qbs_free(__STRING_A);
+qbs_free(__STRING_OK);
+qbs_free(__STRING_R);
+qbs_free(__STRING_T);
+qbs_free(__STRING_D);
+qbs_free(__STRING_DE);
+qbs_free(__STRING_LOG);
+qbs_free(__STRING_NEWLOG);
+qbs_free(__STRING_C);
+qbs_free(__STRING_Q);
+qbs_free(__STRING_READFILE);
+qbs_free(__STRING_P);

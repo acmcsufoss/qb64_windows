@@ -1,0 +1,5 @@
+if (error_occurred){ error_occurred=0;
+if (error_goto_line==1){error_handling=1; goto LABEL_E;}
+if (error_goto_line==2){error_handling=1; goto LABEL_THATIT;}
+exit(99);
+}
